@@ -1,0 +1,10 @@
+28/09/2015 00:51:06 [TestLogger][  INFO]:- browser has been maximized
+28/09/2015 00:51:08 [TestLogger][  INFO]:- the web address has been loaded succesfully
+28/09/2015 00:51:09 [TestLogger][  INFO]:- Account has opened sucessfully
+28/09/2015 00:51:09 [TestLogger][  INFO]:- Username has been entered succesfully
+28/09/2015 00:51:10 [TestLogger][  INFO]:- Password has been entered succesfully
+28/09/2015 00:51:11 [TestLogger][  INFO]:- LogIn button has been clicked succesfully
+28/09/2015 00:51:11 [TestLogger][  INFO]:- name has been verified
+28/09/2015 00:51:11 [TestLogger][  INFO]:- username has been verified
+28/09/2015 00:51:12 [TestLogger][  INFO]:- the browser has now closed
+28/09/2015 00:51:12 [TestLogger][  INFO]:- the browser has no value anymore
